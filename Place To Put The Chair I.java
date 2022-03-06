@@ -119,3 +119,6 @@ public class PlaceToPutTheChairI {
         }
     }
 }
+
+//TC: O (k*m*n)
+//SC: O (m*n)
